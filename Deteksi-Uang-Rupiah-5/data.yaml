@@ -1,0 +1,18 @@
+names:
+- 100rb
+- 10rb
+- 1rb
+- 20rb
+- 2rb
+- 50rb
+- 5rb
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-uang-rupiah-8zlc2-yf0xv
+  url: https://app.roboflow.com/test-workspace-vmqaa/deteksi-uang-rupiah-8zlc2-yf0xv/5
+  version: 5
+  workspace: test-workspace-vmqaa
+test: ../test/images
+train: ../train/images
+val: ../valid/images
